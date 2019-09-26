@@ -1,0 +1,556 @@
+2019-09-24 10:30:48,111 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 10:30:48,114 - INFO - Server response info, code: 406, status: None, description: None
+2019-09-24 10:31:19,530 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 10:31:19,531 - INFO - Server response info, code: 406, status: None, description: None
+2019-09-24 10:32:15,259 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 10:32:15,260 - INFO - Server response info, code: 406, status: None, description: None
+2019-09-24 10:34:42,424 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 10:34:42,439 - INFO - Server response info, code: 406, status: None, description: None
+2019-09-24 10:35:05,272 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 10:35:05,276 - INFO - Server response info, code: 406, status: None, description: None
+2019-09-24 10:36:44,677 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 10:36:44,683 - INFO - Server response info, code: 406, status: None, description: None
+2019-09-24 10:36:47,185 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 10:36:47,190 - INFO - Server response info, code: 406, status: None, description: None
+2019-09-24 10:37:06,103 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 10:37:06,108 - INFO - Server response info, code: 400, status: Bad Request, description: Please check paras or query valid.
+2019-09-24 10:37:40,839 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 10:37:40,847 - INFO - Server response info, code: 400, status: Bad Request, description: Please check paras or query valid.
+2019-09-24 10:37:48,312 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 10:37:48,330 - INFO - Server response info, code: 400, status: Bad Request, description: Please check paras or query valid.
+2019-09-24 10:37:52,130 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 10:37:52,141 - CRITICAL - Failed connect to mongoDB, method: get_rent_house_list
+2019-09-24 10:37:52,181 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-24 10:38:58,613 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 10:38:58,614 - CRITICAL - Failed connect to mongoDB, method: get_rent_house_list
+2019-09-24 10:38:58,615 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-24 10:41:42,623 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 10:41:42,627 - CRITICAL - Failed connect to mongoDB, method: get_rent_house_list
+2019-09-24 10:41:42,627 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-24 10:44:10,099 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 10:44:10,170 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-24 10:46:57,230 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 10:46:57,271 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-24 10:47:43,053 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 10:47:43,078 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-24 10:50:41,385 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 10:50:41,429 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-24 10:52:28,992 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 10:57:09,972 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 10:57:10,013 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-24 12:56:45,430 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 12:56:45,442 - CRITICAL - Failed connect to mongoDB, method: get_rent_house_list
+2019-09-24 12:56:45,455 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-24 12:58:39,910 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 12:58:39,919 - CRITICAL - Failed connect to mongoDB, method: get_rent_house_list
+2019-09-24 12:58:39,944 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-24 12:59:58,193 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 12:59:58,199 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-24 13:00:59,116 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 13:00:59,123 - CRITICAL - Failed connect to mongoDB, method: get_rent_house_list
+2019-09-24 13:00:59,130 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-24 13:02:49,853 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 13:02:49,860 - CRITICAL - Failed connect to mongoDB, method: get_rent_house_list
+2019-09-24 13:02:49,876 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-24 13:04:37,547 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 13:04:37,549 - CRITICAL - Failed connect to mongoDB, method: get_rent_house_list
+2019-09-24 13:04:37,559 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-24 13:04:52,108 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 13:04:52,264 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-24 13:07:22,509 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 13:07:22,514 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-24 13:07:22,560 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-24 13:09:49,602 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 13:09:49,607 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-24 13:09:49,651 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-24 13:21:49,175 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 13:21:49,180 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-24 13:21:49,180 - CRITICAL - Failed connect to mongoDB, method: get_rent_house_list
+2019-09-24 13:21:49,200 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-24 13:23:20,887 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 13:23:20,891 - CRITICAL - Failed connect to mongoDB, method: get_rent_house_list
+2019-09-24 13:23:20,921 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-24 13:24:18,289 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 13:24:18,290 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-24 13:24:18,290 - CRITICAL - Failed connect to mongoDB, method: get_rent_house_list
+2019-09-24 13:24:18,313 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-24 13:27:49,657 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 13:27:49,666 - CRITICAL - Failed connect to mongoDB, method: get_rent_house_list
+2019-09-24 13:27:49,668 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-24 13:29:33,942 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 13:29:33,948 - CRITICAL - Failed connect to mongoDB, method: get_rent_house_list
+2019-09-24 13:29:33,952 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-24 13:32:47,979 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 13:32:47,985 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-24 13:32:47,989 - CRITICAL - Failed connect to mongoDB, method: get_rent_house_list
+2019-09-24 13:32:47,993 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-24 13:35:40,565 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 13:35:40,566 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-24 13:35:40,573 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-24 13:37:42,771 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 13:37:42,778 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-24 13:38:17,511 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 13:38:17,514 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-24 13:38:17,595 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-24 13:40:46,267 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 13:40:46,269 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-24 13:40:46,301 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-24 13:43:56,755 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 13:43:56,759 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-24 13:43:56,761 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-24 13:45:51,331 - INFO - User requests info, path: /rent, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-24 13:45:51,336 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-24 13:45:51,336 - CRITICAL - Failed to get data from mongoDB,module 'api.util' has no attribute 'MONGO_URI', method: gen_rent_data
+2019-09-24 13:45:51,374 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-25 11:45:15,997 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 11:45:16,006 - INFO - Server response info, code: 400, status: Bad Request, description: Please check paras or query valid.
+2019-09-25 11:45:58,506 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 11:45:58,507 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 11:45:58,564 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 11:46:17,032 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 11:46:17,034 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 11:46:17,040 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 11:48:40,853 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 11:48:40,858 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 11:48:40,861 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:00:27,434 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:00:27,442 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:00:27,493 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:07:54,748 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:07:54,753 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:07:54,772 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:08:08,879 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:08:08,883 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:08:08,887 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:08:23,787 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:08:23,790 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:08:23,794 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:08:33,022 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:08:33,032 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:08:33,035 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:08:55,730 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:08:55,735 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:08:55,742 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:09:19,875 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:09:19,880 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:09:19,883 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:09:25,206 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:09:25,206 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:09:25,207 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:10:57,492 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:10:57,494 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:10:57,504 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:11:04,341 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:11:04,341 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:11:04,342 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:11:34,139 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:11:34,142 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:11:34,145 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:11:47,591 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:11:47,594 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:11:47,601 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:16:03,662 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:16:03,666 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:16:03,676 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:16:09,476 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:16:09,480 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:16:09,485 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:20:39,708 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:20:39,717 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:20:39,725 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:22:15,254 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:22:15,255 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:22:15,273 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:22:56,267 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:22:56,268 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:22:56,288 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:23:11,953 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:23:11,960 - INFO - Server response info, code: 400, status: Bad Request, description: Please check paras or query valid.
+2019-09-25 12:23:27,823 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:23:27,824 - INFO - Server response info, code: 400, status: Bad Request, description: Please check paras or query valid.
+2019-09-25 12:23:33,868 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:23:33,879 - INFO - Server response info, code: 400, status: Bad Request, description: Please check paras or query valid.
+2019-09-25 12:23:37,446 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:23:37,448 - INFO - Server response info, code: 400, status: Bad Request, description: Please check paras or query valid.
+2019-09-25 12:23:43,143 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:23:43,145 - INFO - Server response info, code: 400, status: Bad Request, description: Please check paras or query valid.
+2019-09-25 12:24:02,390 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:24:02,392 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:24:02,395 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:28:04,152 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:28:04,155 - INFO - Server response info, code: 400, status: Bad Request, description: Please check paras or query valid.
+2019-09-25 12:28:19,610 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:28:19,618 - INFO - Server response info, code: 400, status: Bad Request, description: Please check paras or query valid.
+2019-09-25 12:28:37,310 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:28:37,310 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:28:37,342 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:30:12,903 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:30:12,903 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:30:12,909 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:41:25,145 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:41:25,150 - INFO - Server response info, code: 400, status: Bad Request, description: Please check paras or query valid.
+2019-09-25 12:41:58,549 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:41:58,554 - INFO - Server response info, code: 400, status: Bad Request, description: Please check paras or query valid.
+2019-09-25 12:42:19,587 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:42:19,592 - INFO - Server response info, code: 400, status: Bad Request, description: Please check paras or query valid.
+2019-09-25 12:42:44,436 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:42:44,444 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:42:44,480 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:43:47,773 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:43:47,777 - INFO - Server response info, code: 400, status: Bad Request, description: Please check paras or query valid.
+2019-09-25 12:44:46,646 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:44:46,654 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:44:46,672 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:45:04,490 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:45:04,491 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:45:04,494 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:45:33,296 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:45:33,298 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:45:33,305 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:45:52,188 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:45:52,195 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:45:52,212 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:46:18,155 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:46:18,161 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:46:18,171 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:46:57,778 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:46:57,779 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:46:57,783 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:48:17,197 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:48:17,198 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:48:17,211 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:48:19,107 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:48:19,108 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:48:19,109 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:48:26,838 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:48:26,839 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:48:26,841 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:52:43,568 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:52:43,575 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:52:43,579 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:52:48,236 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:52:48,242 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:52:48,249 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:53:25,596 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:53:25,603 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:53:25,610 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:53:29,163 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:53:29,164 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:53:29,171 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:53:59,155 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:53:59,160 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:53:59,161 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 12:54:34,845 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 12:54:34,845 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 12:54:34,850 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 15:00:54,180 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 15:00:54,189 - INFO - Server response info, code: 400, status: Bad Request, description: Please check paras or query valid.
+2019-09-25 15:01:39,447 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 15:01:39,447 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 15:01:39,456 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 15:01:46,303 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 15:01:46,308 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 15:01:46,312 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 15:02:41,512 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 15:02:41,512 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 15:02:41,518 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 15:02:58,771 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 15:02:58,775 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 15:02:58,779 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 15:03:34,156 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 15:03:34,164 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 15:03:34,167 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:12:21,009 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:12:21,014 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 18:12:21,098 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:12:24,796 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:12:24,798 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:12:31,990 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:12:31,994 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:17:38,328 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:17:38,341 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 18:17:38,359 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:17:40,166 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:17:40,170 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:17:42,171 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:17:42,175 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:17:52,711 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:17:52,714 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:17:56,357 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:17:56,357 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:17:58,369 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:17:58,372 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:18:01,633 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:18:01,636 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:19:36,706 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:19:36,710 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 18:19:36,716 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:19:41,411 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:19:41,413 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:19:57,943 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:19:57,951 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:19:59,451 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:19:59,459 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:20:01,980 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:20:01,982 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:20:11,012 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:20:11,015 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:20:30,174 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:20:30,178 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 18:20:30,181 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:29:39,570 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:29:47,105 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:29:52,758 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:30:22,327 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:30:22,328 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 18:30:22,347 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:30:52,050 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:34:13,168 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:34:35,700 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:34:39,218 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:34:40,845 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:34:52,875 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:36:33,935 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:36:33,943 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-25 18:36:51,519 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:36:51,520 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-25 18:38:24,922 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:38:39,299 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:39:22,393 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:39:25,906 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:41:02,588 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:41:02,590 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 18:41:02,608 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:41:13,520 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:41:13,521 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 18:41:13,524 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:44:17,952 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:44:17,958 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 18:44:17,977 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:44:23,929 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:44:23,933 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:44:29,291 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:44:29,292 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:44:32,922 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:44:32,927 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:46:25,870 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:46:25,873 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 18:46:25,878 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:46:29,545 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:46:29,546 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:53:06,782 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:53:06,786 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 18:53:06,802 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:53:11,876 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:53:11,881 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:53:16,032 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:53:16,037 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:53:17,844 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:53:17,845 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:53:20,342 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:53:20,343 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:59:45,536 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:59:45,539 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 18:59:45,556 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:59:47,447 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:59:47,450 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:59:51,446 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:59:51,453 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:59:53,919 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:59:53,925 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:59:55,167 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:59:55,170 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:59:56,941 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:59:56,949 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 18:59:59,447 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 18:59:59,452 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 19:00:01,076 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 19:00:01,077 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 19:00:36,498 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 19:00:36,502 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 19:00:36,523 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 19:00:39,037 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 19:00:39,037 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 19:00:42,919 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 19:00:42,927 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 19:00:42,932 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 19:00:46,629 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 19:00:46,639 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 19:00:49,690 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 19:00:49,695 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 19:22:39,471 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 19:22:39,476 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 19:22:39,491 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 19:23:05,666 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 19:23:05,668 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 19:23:17,796 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 19:23:17,797 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-25 19:23:17,801 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-25 19:23:36,304 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-25 19:23:36,307 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 08:11:42,521 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 08:11:42,526 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 08:11:42,560 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 08:11:46,601 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 08:11:46,605 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 08:11:49,120 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 08:11:49,125 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 13:24:04,956 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 13:24:04,962 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 13:24:05,005 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 13:24:27,599 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 13:24:27,601 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 13:24:27,628 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 13:24:58,586 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 13:24:58,593 - INFO - Server response info, code: 400, status: Bad Request, description: Please check paras or query valid.
+2019-09-26 13:25:42,549 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 13:25:42,550 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 13:25:42,568 - CRITICAL - Failed to get data from mongoDB, 'house_type', method: gen_rent_data
+2019-09-26 13:25:42,607 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-26 13:26:28,490 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 13:26:28,492 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 13:26:28,511 - CRITICAL - Failed to get data from mongoDB, 'house_type', method: gen_rent_data
+2019-09-26 13:26:28,513 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-26 13:28:47,257 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 13:28:47,258 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 13:28:47,262 - CRITICAL - Failed to get data from mongoDB, 'house_type', method: gen_rent_data
+2019-09-26 13:28:47,270 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-26 13:31:04,951 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 13:31:04,954 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 13:31:05,386 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 13:31:21,660 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 13:31:21,778 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 13:32:49,066 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 13:32:49,130 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 13:33:28,664 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 13:33:28,671 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 13:33:28,696 - CRITICAL - Failed to get data from mongoDB, 'house_type', method: gen_rent_data
+2019-09-26 13:33:28,711 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-26 13:36:22,289 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 13:36:22,292 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 13:36:22,311 - CRITICAL - Failed to get data from mongoDB, 'house_type', method: gen_rent_data
+2019-09-26 13:36:22,317 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-26 14:15:49,465 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 14:15:49,473 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 14:15:50,630 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 14:17:17,078 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 14:17:17,083 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 14:17:17,110 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 14:17:23,166 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 14:17:23,166 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 14:17:23,188 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 14:17:50,516 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 14:17:50,523 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 14:27:19,782 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 14:27:19,785 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 14:27:20,557 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 14:30:23,262 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 14:30:23,262 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 14:30:23,284 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 14:33:24,996 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 14:33:24,997 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 14:33:25,012 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 14:33:45,969 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 14:33:45,973 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 14:33:45,984 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 14:41:13,718 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 14:41:13,725 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 14:41:13,749 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 14:44:01,448 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 14:44:01,456 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 14:44:01,762 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 14:47:45,564 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 14:47:45,565 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 14:47:45,582 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 14:47:51,699 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 14:47:51,704 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 14:47:51,716 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 14:47:59,911 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 14:47:59,914 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 14:47:59,922 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 14:48:35,991 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 14:48:35,993 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 14:48:36,147 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 14:48:51,317 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 14:48:51,319 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 14:48:51,508 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 14:49:41,170 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 14:49:41,175 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 14:49:41,185 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 14:50:01,309 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 14:50:01,310 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 14:50:01,525 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 14:50:38,652 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 14:50:38,660 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 14:52:59,147 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 14:52:59,151 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 14:52:59,294 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 14:57:35,807 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 14:57:35,811 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 14:57:35,821 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 15:03:54,195 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 15:03:54,198 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 15:03:54,252 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 17:29:58,827 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 17:29:58,833 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 17:29:58,865 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 17:32:38,017 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 17:32:38,025 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 17:32:38,056 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 17:35:05,408 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 17:35:05,411 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 17:35:05,445 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 17:35:47,719 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 17:35:47,722 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 17:35:47,769 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 17:37:37,952 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 17:37:37,952 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 17:37:38,364 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 18:13:40,553 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 18:13:40,564 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 18:13:40,588 - CRITICAL - Failed to get data from mongoDB, 'house_status', method: gen_rent_data
+2019-09-26 18:13:40,605 - WARNING - Server response info, code: 500, status: Internal Server Error, description: Please contact api server manager.
+2019-09-26 18:23:29,984 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 18:23:29,991 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 18:23:29,999 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 18:42:58,819 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 18:42:58,825 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 18:42:58,850 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 18:43:20,239 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 18:43:20,240 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 18:44:32,192 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 18:44:32,195 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 18:44:32,232 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 19:05:09,744 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 19:05:09,753 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 19:05:09,803 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 19:19:17,028 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 19:19:17,043 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 19:19:17,098 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 20:06:20,629 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 20:06:20,640 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 20:06:21,110 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 20:13:57,947 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 20:13:57,950 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 20:13:58,628 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 20:17:29,260 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 20:17:29,272 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 20:17:30,157 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 20:26:56,384 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 20:26:56,388 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 20:26:56,644 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 20:27:54,878 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 20:27:54,878 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 20:27:55,147 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 20:54:00,648 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 20:54:00,649 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 20:54:00,962 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 20:55:18,455 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 20:55:18,465 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 20:55:18,748 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 20:56:08,344 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 20:56:08,345 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 20:56:09,453 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
+2019-09-26 21:11:46,841 - INFO - User requests info, path: /rent591, method: GET, ip: 127.0.0.1, agent: PostmanRuntime/7.17.1
+2019-09-26 21:11:46,842 - INFO - Connect to mongoDB, host: localhost, port: 27017, db: rentdb, collection: rents
+2019-09-26 21:11:47,107 - INFO - Server response info, code: 200, status: OK, description: The list of rent data.
