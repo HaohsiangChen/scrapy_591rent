@@ -71,8 +71,8 @@ def gen_rent_data(**kwargs) -> List[dict]:
                 sex_limited = '女生'
 
             output.append({
-                'house_id': d['house_id'],
-                'city_name': d['city_name'],
+                # 'house_id': d['house_id'],
+                # 'city_name': d['city_name'],
                 'house_type': d['house_type'],
                 'house_status': d['house_status'],
                 'owner': d['owner'],
